@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Confusion-react-app](https://github.com/Srishtihere/Confusion-react-app)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Front-end Web Developement**
 
 - 📝 I regularly write articles on [https://medium.com/@srishtimajumder2002](https://medium.com/@srishtimajumder2002)
 
