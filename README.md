@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@srishtimajumder2002](https://medium.com/@srishtimajumder2002)
 
-- 💬 Ask me about **Javascript, React, Azure, GCP, Vagrant**
+- 💬 Ask me about **Javascript, React, Typescript, Redux, Router, MUI, Bootstrap, CSS frameworks**
 
 - 📫 How to reach me **srishtimajumder2002@gmail.com**
 
