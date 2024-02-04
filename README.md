@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/majumdersrishti" target="blank"><img src="https://img.shields.io/twitter/follow/majumdersrishti?logo=twitter&style=for-the-badge" alt="majumdersrishti" /></a> </p>
 
-- 🔭 I’m currently working as a ***Software Engineer*** at [Digital Product School batch#20](https://www.digitalproductschool.io/)
+- 🔭 I worked as a ***Software Engineer*** at [Digital Product School batch#20](https://www.digitalproductschool.io/)
 
-- 🌱 I’m currently learning **DEvOps/SRE**
+- 🌱 I’m currently in **Front-end Development**
 
 - 📝 I regularly write articles on [https://medium.com/@srishtimajumder2002](https://medium.com/@srishtimajumder2002)
 
