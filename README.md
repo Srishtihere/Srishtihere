@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/majumdersrishti" target="blank"><img src="https://img.shields.io/twitter/follow/majumdersrishti?logo=twitter&style=for-the-badge" alt="majumdersrishti" /></a> </p>
 
+- 👩🏻 My **Portfolio** - [https://srishti-majumder.netlify.app/](https://srishti-majumder.netlify.app/)
+
 - 🔭 I worked as a ***Software Engineer*** at [Digital Product School batch#20](https://www.digitalproductschool.io/)
 
 - 🌱 I’m currently in **Front-end Development**
